@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomellm
 - 👀 I’m interested in Programming, Climbing, Filming, Photographing and Snowboarding.
-- 🌱 I’m currently learning Java Programming, programming Web Applications and different types of Databases.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently sudying Applied Computer Science in Antwerp/Belgium so I'm learning all kinds of technologies from Frontend, Backend, Microservices, AI, Machine Learning, Forecasting but then also some other things on my own like Rust realted (WASM, Bevy Tarui) and if I get the chance to I would love to try some C++ and C on a bigger project then small scripts.
+- 💞️ I’m looking to collaborate on all kinds of projects as I am still figuring out what exactly I enjoy.
 - 📫 How to reach me thomas.ellmenreich@gmail.com.
 
 <!---
